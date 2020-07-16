@@ -1,0 +1,11 @@
+{
+  "name": "dom_manipulating",
+  "version": "1.0.0",
+  "description": "dom manipulation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sammy",
+  "license": "MIT"
+}
